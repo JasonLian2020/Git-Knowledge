@@ -62,7 +62,7 @@
 		* origin/master：远程仓库主分支最新的记录
 		* 测试项目V2.0.0：即是当前tag的name，标记tag所在的位置
 
-		![](img\tag1.bmp)
+		![](img/tag1.bmp)
 		
 
 * **二、Pull & Push**
